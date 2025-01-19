@@ -1,0 +1,6 @@
+coursera_azure_vm_july04   Azure: Create a Virtual Machine and Deploy a Web Server. 
+
+By the end of this guided project, you will be able to understand how the basic networking architecture in Azure works, 
+by creating Virtual Networks, subnets, security groups and Virtual Machines. You will also learn how to use Bastion 
+to connect to a Linux machine using SSH without exposing and external IP. 
+You'll also learn how to expose a public IP and an HTTPS port to access your web server.
